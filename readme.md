@@ -24,7 +24,6 @@ I'm just starting out, but I have a strong ability to understand complex concept
 📬 Feel free to contact me at: **ch.daniyalhum@gmail.com**
 
 
-
 ## 📌 Future Plans
 
 - [ ] Learn Git Bash
